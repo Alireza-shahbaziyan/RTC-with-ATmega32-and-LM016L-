@@ -1,5 +1,4 @@
 # RTC-with-ATmega32-and-LM016L-
 RTC with ATmega32 and LM016L 
 
-
-`https://electronics.stackexchange.com/questions/567981/rtc-with-atmega32-and-ds1307-showing-the-year-completely-wrong`
+`char code[10] = {0x3f,0x06,0x5b,0x4f,0x66,0x6d,0x7d,0x07,0x7f,0x6f};`
